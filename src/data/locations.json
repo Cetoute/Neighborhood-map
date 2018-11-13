@@ -1,0 +1,84 @@
+[
+  {
+    "name": "The Thomas Jefferson Memorial",
+    "street": "701 East Basin SW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20242",
+    "url": "www.nps.gov/thje/index.htm",
+    "pos": {"lat":38.881004,"lng":-77.036463}
+  },
+    
+  {
+    "name": "The Lincoln Memorial",
+    "street": "2 Lincoln Memorial Cir",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20037",
+    "url": "www.nps.gov/linc/index.htm",
+    "pos": {"lat":38.889269,"lng":-77.050176}
+  },
+  {
+    "name": "The Washington Monument",
+    "street": "2 15th St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20007",
+    "url": "www.nps.gov/wamo/index.htm",
+    "pos": {"lat":38.889484,"lng":-77.0363733}
+  },
+  {
+    "name": "The United States Capital",
+    "street": "East Capitol St NE & First St SE",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20004",
+    "url": "www.visitthecapitol.gov",
+    "pos": {"lat":38.889939,"lng":-77.00905}
+  },
+  {
+    "name": "The White House",
+    "street": "1600 Pennsylvania Ave NW SW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20500",
+    "url": "www.whitehouse.gov",
+    "pos": {"lat":38.8989013,"lng":-77.0324048}
+  },
+  {
+    "name": "The National WWII Memorial",
+    "street": "1750 Independence Ave SW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20006",
+    "url": "www.wwiimemorial.com/",
+    "pos": {"lat":38.8989013,"lng":-77.0324048}
+  },
+  {
+    "name": "National Gallery of Art",
+    "street": "6th & Constitution Ave NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20565",
+    "url": "www.nga.gov/content/ngaweb.html",
+    "pos": {"lat":38.890575,"lng":-77.019764}
+  },
+  {
+    "name": "Smithsonian National Museum",
+    "street": "10th St. & Constitution Ave. NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20560",
+    "url": "www.mnh.si.edu",
+    "pos": {"lat":38.890575,"lng":-77.019764}
+  },
+  {
+    "name": "Arts and Industries Building",
+    "street": "900 Jefferson Dr SW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20560",
+    "url": "www.si.edu/Museums/arts-and-industries-building",
+    "pos": {"lat":38.888771,"lng":-77.024374}
+  }
+]

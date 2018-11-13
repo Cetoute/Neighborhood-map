@@ -1,11 +1,16 @@
 {
-  "name": "my-map",
+  "name": "fend-project-7-map",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.6.1",
-    "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "@material-ui/core": "^3.3.0",
+    "google-maps-react": "^2.0.2",
+    "install": "^0.12.2",
+    "npm": "^6.4.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-motion-drawer": "^3.1.0",
+    "react-scripts": "2.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
